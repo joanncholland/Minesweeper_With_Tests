@@ -1,0 +1,2 @@
+com.joannholland.minesweeper.Board#getRandomNumber(I)I
+java.lang.Math#random()D
